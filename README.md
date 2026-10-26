@@ -1,6 +1,6 @@
 # Composition-to-tank modelling of metal hydride hydrogen storage
 
-Code and processed data for the article *Physics-Informed Composition-to-Tank Modeling of Metal Hydride Hydrogen Storage* (A. Kartbayev, D. Chowdhury; submitted to *Hydrogen*, MDPI).
+Code and processed data for the article A. Kartbayev et.al.
 
 The study links composition-based machine-learning predictions of hydride thermodynamics to a physics-based model of a 7.8 kg AB2 tank, calibrated on the time series of an open test data set, and asks how accurate the predicted thermodynamics must be for tank-level decisions.
 
